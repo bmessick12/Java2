@@ -12,13 +12,14 @@ import FunctionClick from './components/FunctionClick'
 import ClassClick from './components/ClassClick'
 import EventBind from './components/EventBind'
 import NameList from './components/NameList'
+import Stylesheet from './components/Stylesheet'
 
 
 
 function App() {
   return (
     <div className="App">
-     <NameList />
+     {/* <NameList /> */}
        
 <FunctionClick />
 <ClassClick />
